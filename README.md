@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliberdankrsy" alt="aliberdankrsy" /></a> </p>
 
 - 📫 How to reach me **aliberdankrsy1@gmail.com**
+- 🎮 Google Play Store --> **https://play.google.com/store/apps/dev?id=5801614806282271330**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
